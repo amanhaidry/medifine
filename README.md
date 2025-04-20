@@ -46,3 +46,6 @@ This project is a multi-page website for a hospital, showcasing its services, ac
 - CSS
 - Google Fonts
 
+## Deployed Project Link
+
+You can view live project here : [Medifine Live](https://amanhaidry.github.io/medifine/)
